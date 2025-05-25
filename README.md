@@ -10,9 +10,9 @@
 ---
 
 ### 🚀 About Me
-- Offensive Security Enthusiast | Building my own hacking tools
-- Obsessed with breaking, automating, and securing things
-- Active on [Medium](https://medium.com/me/lists) with deep-dive writeups & tutorials
+- Offensive Security Engineer | Building my own hacking tools
+- Obsessed with breaking and automating
+- Active on [Medium](https://medium.com/@jacobdiamond/lists) with deep-dive writeups & tutorials
 - Lover of creative hacking, code, and pushing boundaries
 
 ---
