@@ -1,7 +1,4 @@
 <h1 align="center">Hi, I'm Zilbonn 👾</h1>
-<p align="center">
-  <img src="https://github.com/zilbonn/zilbonn/blob/main/banner.png" width="70%" alt="cyber banner">
-</p>
 
 <p align="center">
   <b>🔴 Red Teamer | 🐍 Python Addict | 🛡️ Pentester</b>
