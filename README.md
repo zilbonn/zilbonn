@@ -19,24 +19,25 @@
 
 ### 🏆 **Certifications**
 
-| Logo | Certification | Organization | Date | Credential |
-|------|---------------|--------------|------|------------|
-| ![HTB](https://assets.hackthebox.eu/press/icon/htb-logo-icon.png) | ProLab - P.O.O | Hack The Box | Feb 2025 | HTBCERT-4165B6F887 |
-| ![SecOps](https://www.secops.group/wp-content/uploads/2022/01/secops-logo-new.png) | CNSP | The SecOps Group | Jan 2025 | 9554346 |
-| ![HTB](https://assets.hackthebox.eu/press/icon/htb-logo-icon.png) | ProLab - Offshore | Hack The Box | Jul 2024 | HTBCERT-7A7BC2A2DD |
-| ![APIsec](https://apisec-university.com/images/favicon.png) | CASA | APIsec University | Apr 2024 | cb75aebf-a4e2-4b50-95e1-4cca1ef00498 |
-| ![SecOps](https://www.secops.group/wp-content/uploads/2022/01/secops-logo-new.png) | CAPEN | The SecOps Group | Apr 2024 | 8576471 |
-| ![SecOps](https://www.secops.group/wp-content/uploads/2022/01/secops-logo-new.png) | CAP | The SecOps Group | Apr 2024 | 8561103 |
-| ![CyberWarFare Labs](https://avatars.githubusercontent.com/u/47560940?s=200&v=4) | MCRTA | CyberWarFare Labs | Apr 2024 | 662da17ae14e70c9c1e6d6ef |
-| ![HTB](https://assets.hackthebox.eu/press/icon/htb-logo-icon.png) | ProLab - Zephyr | Hack The Box | Nov 2023 | HTBCERT-2C20718845 |
-| ![Zero-Point](https://zeropointsecurity.co.uk/static/img/zero-point-logo.png) | C2 Development in C# | Zero-Point Security Ltd | Aug 2023 | sghifx0pjf |
-| ![Zero-Point](https://zeropointsecurity.co.uk/static/img/zero-point-logo.png) | DevOps for Pentesters | Zero-Point Security Ltd | Aug 2023 | fv2rbwh4py |
-| ![HTB](https://assets.hackthebox.eu/press/icon/htb-logo-icon.png) | ProLab - Genesis | Hack The Box | Aug 2023 | HTBCERT-DC47800791 |
-| ![OffSec](https://avatars.githubusercontent.com/u/10469965?s=200&v=4) | OSCP | OffSec | Nov 2022 | [Verify](https://www.your-oscp-verification-link.com) |
-| ![HTB](https://assets.hackthebox.eu/press/icon/htb-logo-icon.png) | ProLab - Dante | Hack The Box | Sep 2022 | HTBCERT-3B83DC6D38 |
-| ![Python](https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg) | PCEP | Python Institute | Mar 2022 | VoY2.Carj.tP7V |
-| ![THM](https://assets.tryhackme.com/img/favicon.png) | Throwback | TryHackMe | Jan 2022 | THM-H9VLFXVSWA |
-| ![INE](https://www.ine.com/assets/images/favicon.ico) | eJPT | INE Security | Jul 2021 | 6497586 |
+| Certification                | Organization         | Date       | Credential                  |
+|------------------------------|----------------------|------------|-----------------------------|
+| ProLab - P.O.O               | Hack The Box         | Feb 2025   | HTBCERT-4165B6F887          |
+| CNSP                         | The SecOps Group     | Jan 2025   | 9554346                     |
+| ProLab - Offshore            | Hack The Box         | Jul 2024   | HTBCERT-7A7BC2A2DD          |
+| CASA                         | APIsec University    | Apr 2024   | cb75aebf-a4e2-4b50-95e1-4cca1ef00498 |
+| CAPEN                        | The SecOps Group     | Apr 2024   | 8576471                     |
+| CAP                          | The SecOps Group     | Apr 2024   | 8561103                     |
+| MCRTA                        | CyberWarFare Labs    | Apr 2024   | 662da17ae14e70c9c1e6d6ef    |
+| ProLab - Zephyr              | Hack The Box         | Nov 2023   | HTBCERT-2C20718845          |
+| C2 Development in C#         | Zero-Point Security  | Aug 2023   | sghifx0pjf                  |
+| DevOps for Pentesters        | Zero-Point Security  | Aug 2023   | fv2rbwh4py                  |
+| ProLab - Genesis             | Hack The Box         | Aug 2023   | HTBCERT-DC47800791          |
+| OSCP                         | OffSec               | Nov 2022   | VoY2.Carj.tP7V              |
+| ProLab - Dante               | Hack The Box         | Sep 2022   | HTBCERT-3B83DC6D38          |
+| PCEP                         | Python Institute     | Mar 2022   | VoY2.Carj.tP7V              |
+| Throwback                    | TryHackMe            | Jan 2022   | THM-H9VLFXVSWA              |
+| eJPT                         | INE Security         | Jul 2021   | 6497586                     |
+
 
 ---
 
