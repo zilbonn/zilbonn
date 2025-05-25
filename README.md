@@ -16,6 +16,14 @@
 - Lover of creative hacking, code, and pushing boundaries
 
 ---
+### 📈 **GitHub Stats**
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=zilbonn&show_icons=true&hide_title=true&theme=radical">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zilbonn&theme=radical">
+</p>
+
+---
 
 ### 🏆 **Certifications**
 
@@ -42,15 +50,6 @@
 ---
 
 
-### 📈 **GitHub Stats**
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=zilbonn&show_icons=true&hide_title=true&theme=radical">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zilbonn&theme=radical">
-</p>
-
----
-
 ### 📰 **Latest Writeups**
 
 - Medium: [https://medium.com/@jacobdiamond/websocket-security-pitfalls-in-action-a85706d4d00e](https://medium.com/@jacobdiamond/websocket-security-pitfalls-in-action-a85706d4d00e)
@@ -59,7 +58,6 @@
 
 ### 📬 **Contact**
 
-- [Medium](https://medium.com/me/lists)
 - [LinkedIn](https://www.linkedin.com/in/jdiamondoff/) <!-- update if you want -->
 
 ---
