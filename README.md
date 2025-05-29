@@ -37,7 +37,7 @@
 | C2 Development in C#         | Zero-Point Security  | Aug 2023   | sghifx0pjf                  |
 | DevOps for Pentesters        | Zero-Point Security  | Aug 2023   | fv2rbwh4py                  |
 | ProLab - Genesis             | Hack The Box         | Aug 2023   | HTBCERT-DC47800791          |
-| OSCP                         | OffSec               | Nov 2022   | VoY2.Carj.tP7V              |
+| OSCP                         | OffSec               | Nov 2022   | [VoY2.Carj.tP7V ](https://www.credential.net/080c7d61-b7c3-46ed-a355-40988c9c1efb#acc.YQubdRFs)             |
 | ProLab - Dante               | Hack The Box         | Sep 2022   | HTBCERT-3B83DC6D38          |
 | PCEP                         | Python Institute     | Mar 2022   | VoY2.Carj.tP7V              |
 | Throwback                    | TryHackMe            | Jan 2022   | THM-H9VLFXVSWA              |
